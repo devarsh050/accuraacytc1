@@ -20,4 +20,4 @@ async def on_message(message):
 				await client.send_message(message.channel, "YOU DO NOT HAVE PERMISSION")
 	
 
-client.run("NTUyMDk5MjAyNzIxOTA2NzA1.D2FmIQ.HNtuW_UFRiwPxNuDRex3rsOhIu8")
+client.run("BOT_TOKEN")
